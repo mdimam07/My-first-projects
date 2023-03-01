@@ -90,12 +90,17 @@ border-radius: 5px;
   color: green;
 }
  /* my plan styless */
+ .my-plan{
+  margin-left: 230px;
+margin-right: 230px;
+ }
  .plan-title{
   text-align: center;
   font-size: 40px;
   font-weight: 700px;
   color: #151414;
 margin-bottom: 50px;
+
  }
  .plan-item{
   display: flex;
@@ -144,4 +149,54 @@ border-radius: 5px;
 width: 160px;
 height: 64px;
 margin-bottom: 60px;
+ }
+
+ /* footer styless */
+ .contract{
+  display: flex;
+  gap:100px;
+  background: #151414;
+   
+ }
+ .future{
+  padding: 130px 885px 130px 230px;
+ }
+ .contract-title{
+  margin-bottom: 16px;
+  font-weight: 700;
+font-size: 45px;
+color: #F8F8F8;
+ }
+ .contract-info{
+  margin-bottom: 16px;
+  font-weight: 400;
+font-size: 16px;
+color: #FFFFFF;
+ }
+ 
+ .contracts-title{
+  font-weight: 600;
+  font-size: 25px;
+  margin-bottom: 31px;
+  color: #FFFFFF;
+ }
+ .subcribe{
+  padding: 130px 230px 243px 0px;
+ }
+ input{
+  width: 325px;
+height: 64px;
+margin-bottom: 16px;
+font-weight: 400;
+font-size: 18px;
+color: #F3F3F3;
+ }
+ .section-btn{
+  width: 170.11px;
+height: 64px;
+font-weight: 600;
+font-size: 20px;
+color: #F15B22;
+padding: 20px 36px;
+
  }
